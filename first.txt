@@ -1,1 +1,2 @@
 first git txt
+git is a free software
